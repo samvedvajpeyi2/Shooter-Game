@@ -1,0 +1,12 @@
+c:\users\echoes\documents\visual studio 2015\Projects\Shooter Game\Shooter Game\bin\Debug\Shooter Game.exe.config
+c:\Users\Echoes\Documents\Visual Studio 2015\Projects\Shooter Game\Shooter Game\obj\Debug\Shooter_Game.ShooterGame.resources
+c:\Users\Echoes\Documents\Visual Studio 2015\Projects\Shooter Game\Shooter Game\obj\Debug\Shooter_Game.Properties.Resources.resources
+c:\Users\Echoes\Documents\Visual Studio 2015\Projects\Shooter Game\Shooter Game\obj\Debug\Shooter Game.csproj.GenerateResource.Cache
+c:\Users\Echoes\Documents\Visual Studio 2015\Projects\Shooter Game\Shooter Game\bin\Debug\Shooter Game.exe
+c:\Users\Echoes\Documents\Visual Studio 2015\Projects\Shooter Game\Shooter Game\bin\Debug\Shooter Game.pdb
+c:\Users\Echoes\Documents\Visual Studio 2015\Projects\Shooter Game\Shooter Game\obj\Debug\Shooter Game.exe
+c:\Users\Echoes\Documents\Visual Studio 2015\Projects\Shooter Game\Shooter Game\obj\Debug\Shooter Game.pdb
+c:\Users\Echoes\Documents\Visual Studio 2015\Projects\Shooter Game\Shooter Game\obj\Debug\Shooter Game.csprojResolveAssemblyReference.cache
+C:\Users\Echoes\Desktop\Shooter Game\Shooter Game\bin\Debug\Shooter Game.exe.config
+C:\Users\Echoes\Desktop\Shooter Game\Shooter Game\obj\Debug\Shooter Game.exe
+C:\Users\Echoes\Desktop\Shooter Game\Shooter Game\obj\Debug\Shooter Game.pdb
